@@ -1,0 +1,31 @@
+{
+  "name": "console.sauce",
+  "version": "0.0.0",
+  "description": "Console.log() with a little spice here and there :)",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saucecodee/console.sauce.git"
+  },
+  "keywords": [
+    "console.log",
+    "logger",
+    "console"
+  ],
+  "author": "Ifedili Onyegbu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saucecodee/console.sauce/issues"
+  },
+  "homepage": "https://github.com/saucecodee/console.sauce#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
